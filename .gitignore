@@ -1,0 +1,72 @@
+# Gradle
+.gradle/
+build/
+out/
+classes/
+
+# Eclipse
+*.launch
+.settings/
+.metadata/
+.classpath
+.project
+bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VSCode
+.vscode/
+.code-workspace
+
+# Minecraft/Forge MDK
+run/
+logs/
+crash-reports/
+
+# Mac OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Compiled files
+*.class
+*.jar
+!gradle-wrapper.jar
+
+# Logs
+*.log
+*.log.gz
+*.log.xz
+*.log.zst
+
+# Runtime data
+*.pid
+*.seed
+*.pid.lock
+
+# Temp files
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+
+# Cache files
+.mtj.tmp/
+hs_err_pid*
+replay_pid*
+
+# Forge specific
+src/generated/

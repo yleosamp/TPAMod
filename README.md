@@ -17,8 +17,10 @@ Um mod server-side elegante e leve para teleporte entre jogadores em servidores 
 
 ## 🎮 Comandos
 
-- `/tpa <jogador>` - Envia um pedido de teleporte
-- `/tpaccept <jogador>` - Aceita um pedido de teleporte
+| Comando | Descrição | Uso |
+|---------|-----------|-----|
+| `/tpa` | Envia um pedido de teleporte para outro jogador | `/tpa <jogador>` |
+| `/tpaccept` | Aceita um pedido de teleporte pendente | `/tpaccept <jogador>` |
 
 ## 🌟 Funcionalidades
 

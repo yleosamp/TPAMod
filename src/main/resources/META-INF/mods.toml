@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All rights reserved"
+[[mods]]
+modId="tpamod"
+version="1.0.0"
+displayName="TPA Mod"
+description='''
+Um mod simples de TPA para servidores
+'''

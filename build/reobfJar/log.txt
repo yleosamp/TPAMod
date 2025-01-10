@@ -120,4 +120,6 @@ Writing Output: C:\Users\Leonardo\Desktop\PROGRAMACOES\TPA-MOD\build\reobfJar\ou
   com/tpamod/commands/TPAcceptCommand.class
   com/tpamod/events/
   com/tpamod/events/CombatEvents.class
+  com/tpamod/utils/
+  com/tpamod/utils/MessageUtils.class
   pack.mcmeta
